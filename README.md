@@ -37,7 +37,7 @@ The goal of dijkstra's algorithm is to find the optimal route between 2 points i
         Si le sommet ne possède pas d'arcs de sortie alors on arrête le process. 
         sinon on continue.
 
-        ![Alt text](image.png)
+        ![Alt text](images/image.png)
 4. **Implémentation de l'algorithme de Dijkstra :**
     - > Liste des variables 
         - Un tableau matriciel 2D (matrice) avec les poids, en X le prédécesseur, en Y le successeur : Exemple du graphe ci-dessus.
