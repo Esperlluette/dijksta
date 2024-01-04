@@ -63,8 +63,7 @@ Ceci est un projet d'entrainement et d'apprentissage de l'algorithme de Dijkstra
         |     |     |     | 7E  | 5C  | 14E |
         |     |     |     | 7E  |     | 5D  |
 
-   - > Un tableau de concordance constant dans le format {key:value}  pour que chaque lettre possède un index.
-   - const Map {"A":1,"B":2,"C":3,...}
+   - > Un tableau de concordance constant dans le format {key:value}  pour que chaque lettre possède un index: const Map {"A":1,"B":2,"C":3,...}
 
 
 5. **Affichage des résultats :**
