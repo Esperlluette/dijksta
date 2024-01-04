@@ -1,7 +1,7 @@
 ## Dijkstra algorith
 Ceci est un projet d'entrainement et d'apprentissage de l'algorithme de Dijkstra
- 
-**Cahier des charges pour le développement d'un programme Python implémentant l'algorithme de Dijkstra :**
+
+### **Cahier des charges pour le développement d'un programme Python implémentant l'algorithme de Dijkstra :**
 
 **Objectif :** Développer un programme interactif en Python permettant à l'utilisateur de trouver le chemin le plus court entre deux nœuds dans un graphe pondéré en utilisant l'algorithme de Dijkstra.
 
@@ -62,6 +62,9 @@ Ceci est un projet d'entrainement et d'apprentissage de l'algorithme de Dijkstra
         |     |     | 9B  |     | 5C  |     |
         |     |     |     | 7E  | 5C  | 14E |
         |     |     |     | 7E  |     | 5D  |
+
+   - > Un tableau de concordance constant dans le format {key:value}  pour que chaque lettre possède un index.
+   - const Map {"A":1,"B":2,"C":3,...}
 
 
 5. **Affichage des résultats :**
